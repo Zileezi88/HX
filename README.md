@@ -11,9 +11,9 @@ vless 性能更加优秀，占用资源更少。
 
 ## 镜像
 
-本镜像不会因为大量占用资源而被封号。注册好Heroku账号并登录后,点击下面按钮便可部署.
+本镜像不会因为大量占用资源而被封号。注册好Hk账号并登录后,点击下面按钮便可部署.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Zileezi88/Heroku-Xray)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Zileezi88/HX)
 
 ### 路径
 
